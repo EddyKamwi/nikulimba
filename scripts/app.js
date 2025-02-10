@@ -1,5 +1,5 @@
-const CLIENT_ID = '5d8c4890408a478e947337ee5540f82d';
-const CLIENT_SECRET = 'c120c9a48a2947b8ad5bdc6dfd4d479a';
+const CLIENT_ID = '940d340161524f1e836a778c951cb3e6';
+const CLIENT_SECRET = '26169bca33da434c955bc8b00e0b4dc9';
 const REDIRECT_URI = 'https://eddykamwi.github.io/nikulimba'; // Update this to your server URL
 
 class SpotifyAPI {
